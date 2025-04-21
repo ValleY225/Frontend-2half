@@ -1,0 +1,1 @@
+.next in the project next.js was too big for GitHub.
